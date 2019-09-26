@@ -1,1 +1,1 @@
-# nndp
+# neural network and deep learning
